@@ -7,7 +7,9 @@ font-family:Arial, Helvetica, sans-serif;
 
 body{
 
-background:linear-gradient(180deg,#ffd6ef,#f3d2ff);
+background-image:url("imagenes/fondo.jpg");
+background-size:cover;
+background-position:center;
 
 min-height:100vh;
 
@@ -162,7 +164,7 @@ font-size:15px;
 
 color:white;
 
-background:linear-gradient(180deg,#ff71c8,#b94cff);
+background:linear-gradient(180deg,#ffd6ef,#f3d2ff);
 
 border-radius:50%;
 
